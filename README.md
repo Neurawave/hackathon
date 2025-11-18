@@ -48,6 +48,11 @@ A ready-made Flutter app with Bootstrap-inspired design that you can use as a fo
 - `weather_api_example.ipynb` - Jupyter notebook with examples of how to fetch weather data from SMHI
 - Can be used to connect weather data with migraine triggers
 
+### Backend Examples (`backend/`)
+- A simple Flask API example that you can use as a starting point for building your own backend
+- Ready to run with just `pip install -r requirements.txt` and `python main.py`
+- Includes a basic "Hello World" endpoint - extend it with your own data endpoints
+- See `backend/README.md` for detailed instructions
 
 
 
