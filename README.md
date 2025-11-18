@@ -29,7 +29,7 @@ The heart of the project with several different data sources to choose from:
 - Website: https://www.openseizuredetector.org.uk/
 
 #### 4. **Synthetic Data** (`data/synthetic/`)
-- Large amounts of synthetic (generated) data for testing
+- Large amounts of synthetic (generated) data for testing 
 - Two sizes: 10,000 and 100,000 persons
 - Contains:
   - `person_data_*.csv` - Personal information
@@ -37,6 +37,7 @@ The heart of the project with several different data sources to choose from:
   - `weather_data.csv` - Weather data
 - Detailed documentation of all fields in `synthetic.md`
 - Perfect for training machine learning models without privacy concerns
+- **Note:** The actual CSV files are too large to include in this repository. Please contact the organizers to get access to the synthetic data.
 
 ### Frontend (`flutter_app/`)
 A ready-made Flutter app with Bootstrap-inspired design that you can use as a foundation:
