@@ -24,6 +24,7 @@ The heart of the project with several different data sources to choose from:
   - API structure specification: [`openapi.yaml`](data/relief%20ahead/openapi.yaml)
   - You can also run Swagger to see API structure. [Instructions in reliefaheadAPI.md](data/relief%20ahead/reliefaheadAPI.md) Swagger a reference/example only - there is no actual localhost backend bundled with Swagger
 - Get a user (username+password) with random data from hackathon organisers (hack1, hack2, hack3, ...)
+- You can also create your own empty test user using [Relief aHead Android app](https://play.google.com/store/apps/details?id=se.neurawave.reliefahead)
 
 #### 3. **Open Seizure Detector** (`data/openseizuredetector/`)
 - Open source project for health data management
