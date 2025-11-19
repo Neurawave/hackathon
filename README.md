@@ -29,6 +29,7 @@ The heart of the project with several different data sources to choose from:
 - Can be customized and further developed even after the hackathon
 - GitHub: https://github.com/OpenSeizureDetector/webApi/tree/master/api
 - Website: https://www.openseizuredetector.org.uk/
+- **Note:** Repos contains code to collect data. Contact hachathon organizers about pre-created data.
 
 #### 4. **Synthetic Data** (`data/synthetic/`)
 - Large amounts of synthetic (generated) data for testing 
@@ -37,9 +38,9 @@ The heart of the project with several different data sources to choose from:
   - `person_data_*.csv` - Personal information
   - `health_data_*.csv` - Health data with triggers and migraine events
   - `weather_data.csv` - Weather data
-- Detailed documentation of all fields in `synthetic.md`
+- Detailed documentation of all fields in [`synthetic.md`](synthetic/synthetic.md)
 - Perfect for training machine learning models without privacy concerns
-- **Download:** The CSV files are too large to include in this repository. Please download them manually:
+- Download: The CSV files are too large to include in this repository. Please download them manually:
   - [synthetic_data_10_000.zip](https://drive.google.com/file/d/1M6GYn98nnvJ4QKk8xUJeXDGWkdx4Sgld/view?usp=sharing) (108 MB)
   - [synthetic_data_100_000.zip](https://drive.google.com/file/d/1jjFNkutK-YWJnfRY5qEmbPSO1DVuWmDb/view?usp=sharing) (1.09 GB)
 
