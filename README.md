@@ -39,6 +39,12 @@ The heart of the project with several different data sources to choose from:
 - Perfect for training machine learning models without privacy concerns
 - **Note:** The actual CSV files are too large to include in this repository. Please contact the organizers to get access to the synthetic data.
 
+#### 5. **Korean S1 Dataset** (`data/korean-s1-dataset/`)
+- Research data about trigger factors in episodic migraineurs using a smartphone headache diary application
+- Published study with 62 participants over 4579 days
+- More info in [`korean-s1-dataset.md`](data/korean-s1-dataset/korean-s1-dataset.md)
+- The original article: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0149577
+
 ### Frontend (`flutter_app/`)
 A ready-made Flutter app with Bootstrap-inspired design that you can use as a foundation:
 - Support for web, iOS and Android
