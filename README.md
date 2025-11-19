@@ -19,10 +19,11 @@ The heart of the project with several different data sources to choose from:
 - Neurawave API used for tracking personal wellbeing. Only own users data is available.
 - Build your own backend based on this specification, or use it as inspiration for your data model
 - API url: https://api.reliefahead.com/test
-- API structure specification: [`openapi.yaml`](data/relief ahead/openapi.yaml)
-- You can also run Swagger to see API structure:
-  - Instructions how to run Swagger: [reliefaheadAPI.md](data/relief ahead/reliefaheadAPI.md)
-  - The data is a reference/example only - there is no actual backend bundled with OpenAPI & Swagger
+- API docs
+  - Description: [api-docs/README.md](data/relief%20ahead/api-docs/README.md)
+  - API structure specification: [`openapi.yaml`](data/relief%20ahead/openapi.yaml)
+  - You can also run Swagger to see API structure. [Instructions in reliefaheadAPI.md](data/relief%20ahead/reliefaheadAPI.md) Swagger a reference/example only - there is no actual localhost backend bundled with Swagger
+- Get a user (username+password) with random data from hackathon organisers (hack1, hack2, hack3, ...)
 
 #### 3. **Open Seizure Detector** (`data/openseizuredetector/`)
 - Open source project for health data management
